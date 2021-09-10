@@ -60,5 +60,5 @@ Based of the plot, it shows the front and middle are not different even though t
 ## Conclusions
 
 In conclusion we determined anova had to be used in order to determine the amount of drinks per week like the first category.
-The chart confirms that the back row drinks 8.5 more drinks than the middle row while drinking 3.3 drinks per week, also the front row drinks 1.7 per week. All three rows don't consume the same amount of drinks proved by the columns and information. P value represent the chances of getting an result of what we already obtained. I do not agree with the null hypothesis due to it being small/less.
+The chart confirms that the back row drinks 8.5 more drinks than the middle row while drinking 3.3 drinks per week, also the front row drinks 1.7 per week. All three rows don't consume the same amount of drinks proved by the columns and information. P value represent the chances of getting an result of what we already obtained. I do not agree with the null hypothesis due to it being small/less.Based of the plot, it shows the front and middle are not different even though the front and back/back and middle appear to be different.
 
