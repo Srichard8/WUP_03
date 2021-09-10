@@ -52,6 +52,11 @@ summary.aov(model1)
 ```
   P value represent the chances of getting an result of what we already obtained. I do not agree with the null hypothesis due to it being small/less.
   
+```{r}
+plot(TukeyHSD(model1))
+```
+
+Based of the plot, it shows the front and middle are not different even though the front and back/back and middle appear to be different.
 ## Conclusions
 
 
